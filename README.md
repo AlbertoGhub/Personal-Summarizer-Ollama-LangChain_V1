@@ -2,7 +2,8 @@
 
 
 
-bash```
+bash 
+```
 project/
 │
 ├── main.py

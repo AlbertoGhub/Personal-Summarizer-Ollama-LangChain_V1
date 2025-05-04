@@ -2,7 +2,7 @@
 
 
 
-
+bash```
 project/
 │
 ├── main.py
@@ -12,3 +12,4 @@ project/
 └── src/
     └── modules/
         └── summariser.py
+```
